@@ -1,5 +1,5 @@
 # matrix_library
-> Library for operations on matrices, written in C language\
+> Library for operations on matrices, written in C language
 ## Library Functions:
 
 ### 1. Creating matrices (create_matrix)
